@@ -1,0 +1,32 @@
+{
+  "name": "starter-pack",
+  "version": "1.0.0",
+  "description": "A Sass compiler with Server using Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusWTF/Sass-Starter.git"
+  },
+  "keywords": [
+    "css",
+    "framework",
+    "lightweight",
+    "minimalist"
+  ],
+  "author": "Matheus Diniz Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusWTF/Sass-Starter/issues"
+  },
+  "homepage": "https://github.com/MatheusWTF/Sass-Starter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
